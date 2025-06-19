@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function NEXUS_MD_PAIR_CODE() {
+    async function GIFTED_MD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -89,16 +89,16 @@ https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/Dev-Bunny-001/NEXUS-MD.git
+ttps://github.com/Dev-Bunny-001/NEXUS-MD
 
-> *© Powered By Dev Bunny™*`; 
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʙᴜɴɴʏ ᴛᴇᴄʜ™*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Dev Bunny",
-thumbnailUrl: "https://files.catbox.moe/8hluwf.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37",
+title: "Bᴜɴɴʏ Tech inc",
+thumbnailUrl: "https://files.catbox.moe/0om55o.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VayQpwx8F2pIKEWkcd0f",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -107,13 +107,13 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploying TONIC-MD*\n\n ◦ *Github:* https://github.com/Dev-Bunny-001/NEXUS-MD.git`;
+                            let desc = `*Don't Share with anyone this code use for deploying NEXUS-MD*\n\n ◦ *Github:* ttps://github.com/Dev-Bunny-001/NEXUS-MD`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " NEXUS-MD",
-thumbnailUrl: "https://files.catbox.moe/8hluwf.jpg",
+title: "NEXUS-MD",
+thumbnailUrl: "https://files.catbox.moe/0om55o.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37",
 mediaType: 2,
 renderLargerThumbnail: true,
@@ -131,7 +131,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    NEXUS_MD_PAIR_CODE();
+                    GIFTED_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -142,10 +142,11 @@ showAdAttribution: true
             }
         }
     }
-   return await NEXUS_MD_PAIR_CODE();
+   return await GIFTED_MD_PAIR_CODE();
 });/*
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
     process.exit();
 }, 180000); //30min*/
 module.exports = router;
+        
