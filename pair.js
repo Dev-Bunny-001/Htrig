@@ -98,7 +98,7 @@ contextInfo: {
 externalAdReply: {
 title: "Dev Bunny",
 thumbnailUrl: "https://i.ibb.co/V0Th4JTt/20250619-160406.webp",
-sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37  ",
+sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
