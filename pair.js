@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "Dev Bunny",
-thumbnailUrl: "https://files.catbox.moe/0om55o.jpg",
+thumbnailUrl: "https://files.catbox.moe/8hluwf.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: " NEXUS-MD",
-thumbnailUrl: "https://files.catbox.moe/0om55o.jpg",
+thumbnailUrl: "https://files.catbox.moe/8hluwf.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VakKwan1noz1yob4fv37",
 mediaType: 2,
 renderLargerThumbnail: true,
